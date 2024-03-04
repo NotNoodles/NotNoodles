@@ -7,4 +7,4 @@
 ☆ Finding my way around GitHub <br/>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotNoodles&show_icons=true&theme=radical)
+![Noodles's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotNoodles&show_icons=true&theme=radical)

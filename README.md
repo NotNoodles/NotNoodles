@@ -3,7 +3,7 @@
 
 ☆ I'm a Uni student who tutors sometimes as a gig <br/>
 ☆ I'm studying Computer Science <br/>
-☆ I like creating art on the side and illustrationg <br/>
+☆ I like creating art on the side and illustrating <br/>
 ☆ Still finding my way around GitHub <br/>
 -->
 

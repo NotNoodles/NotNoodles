@@ -1,7 +1,7 @@
 ### Hey hey!
 
 
-☆ I'm currently a high school student, graduating this year <br/>
+☆ I'm a Uni student who tutors sometimes as a gig <br/>
 ☆ I'm studying Computer Science <br/>
 ☆ I like creating art on the side and illustrationg <br/>
 ☆ Still finding my way around GitHub <br/>

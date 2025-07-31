@@ -1,7 +1,6 @@
 ### Hey hey!  
 
 ☆ CS student @ UOWD Dubai | **AI & Big Data**  
-☆ Future MSc candidate in France 🇫🇷
 ☆ Building: PyGame adventures, a C++ vault, and a personal website 
 ☆ Tutor by gig, artist by passion ✨   
 ☆ Still finding my way around GitHub (but learning fast!) 

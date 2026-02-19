@@ -1,8 +1,5 @@
-### Hey hey!  
-
-☆ CS student @ UOWD Dubai | **AI & Big Data**  
-☆   
-☆
--->
-
-![Noodles's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotNoodles&show_icons=true&theme=radical)
+### hey, i'm maria ☆
+cs student | ai & big data
+building things for myself 
+currently: a paint mixing calculator, an ai productivity app, a game studio
+everything here started as a personal problem lol
